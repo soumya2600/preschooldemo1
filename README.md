@@ -1,1 +1,1 @@
-pre school design website with html css and js
+pre school design website with html CSS and js
